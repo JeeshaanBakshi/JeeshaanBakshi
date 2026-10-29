@@ -25,9 +25,9 @@ I build software, run experiments with machine learning, and want to understand 
 
 #### 🧰 Tech
 
-**Languages:** Python · JavaScript · C++ · SQL · Racket · HTML/CSS
-**Web:** React · Next.js · Tailwind CSS · Supabase · PostgreSQL · REST APIs
-**AI/ML & Data:** RAG · SentenceTransformers · transformers.js · embeddings · PCA · scikit-learn · pandas · NumPy
-**Hardware:** Arduino · ESP32 · ESP8266 · RFID · HC-SR04 · I2C
+- **Languages:** Python · JavaScript · C++ · SQL · Racket · HTML/CSS
+- **Web:** React · Next.js · Tailwind CSS · Supabase · PostgreSQL · REST APIs
+- **AI/ML & Data:** RAG · SentenceTransformers · transformers.js · embeddings · PCA · scikit-learn · pandas · NumPy
+- **Hardware:** Arduino · ESP32 · ESP8266 · RFID · HC-SR04 · I2C
 
 > I use AI coding tools where they help: my portfolio site and the RAG demo's web front end were built with help from Claude Code. The retrieval pipeline itself is my own Python.
